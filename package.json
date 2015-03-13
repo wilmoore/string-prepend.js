@@ -1,0 +1,40 @@
+{
+  "name": "string-prepend",
+  "version": "0.0.0",
+  "description": "The unicorn String.prototype.prepend as a curried function.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec 'npm run test' -e 'js json'",
+    "lint": "eslint .",
+    "test": "node test.js test/**/*.js | tap-spec",
+    "pretest": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilmoore/string-prepend.js"
+  },
+  "files": [
+    "index.js",
+    "license",
+    "package.json",
+    "readme.md"
+  ],
+  "keywords": [
+    "curry",
+    "curried",
+    "partial",
+    "partialapplication",
+    "prepend",
+    "string-prepend",
+    "string"
+  ],
+  "author": "Wil Moore III <wil.moore@wilmoore.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.3.7",
+    "tap-spec": "^2.2.2",
+    "tape": "^3.5.0",
+    "tape-catch": "^1.0.4"
+  },
+  "dependencies": {}
+}
