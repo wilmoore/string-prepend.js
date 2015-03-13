@@ -1,6 +1,6 @@
 # string-prepend
 
-[![Build Status](http://img.shields.io/travis/wilmoore/string-prepend.js.svg)](https://travis-ci.org/wilmoore/string-prepend.js) [![NPM version](http://img.shields.io/npm/v/string-prepend.svg)](https://www.npmjs.org/package/string-prepend) [![NPM downloads](http://img.shields.io/npm/dm/string-prepend.svg)](https://www.npmjs.org/package/string-prepend) [![LICENSE](http://img.shields.io/npm/l/string-prepend.svg)](license)
+[![Code Climate](https://codeclimate.com/github/wilmoore/string-prepend.js/badges/gpa.svg)](https://codeclimate.com/github/wilmoore/string-prepend.js) [![Build Status](http://img.shields.io/travis/wilmoore/string-prepend.js.svg)](https://travis-ci.org/wilmoore/string-prepend.js) [![NPM version](http://img.shields.io/npm/v/string-prepend.svg)](https://www.npmjs.org/package/string-prepend) [![NPM downloads](http://img.shields.io/npm/dm/string-prepend.svg)](https://www.npmjs.org/package/string-prepend) [![LICENSE](http://img.shields.io/npm/l/string-prepend.svg)](license)
 
 > The unicorn String.prototype.prepend as a curried function.
 
