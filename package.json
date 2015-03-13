@@ -1,6 +1,6 @@
 {
   "name": "string-prepend",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The unicorn String.prototype.prepend as a curried function.",
   "main": "index.js",
   "scripts": {
