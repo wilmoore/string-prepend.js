@@ -31,6 +31,7 @@
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "license": "MIT",
   "devDependencies": {
+    "eslint": "^0.16.2",
     "nodemon": "^1.3.7",
     "tap-spec": "^2.2.2",
     "tape": "^3.5.0",
